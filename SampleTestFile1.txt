@@ -1,3 +1,7 @@
 This is Sample File 1
 This is Comparison
+<<<<<<< Updated upstream
 This is Stash lecture , Change in Main File
+=======
+This is Stash lecture , Change in File 2
+>>>>>>> Stashed changes
